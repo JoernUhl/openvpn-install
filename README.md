@@ -137,7 +137,7 @@ However, it is discouraged to use compression since it since the [VORACLE attack
 
 OpenVPN accepts TLS 1.0 by default, which is nearly [20 years old](https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.0).
 
-With `tls-version-min 1.2` we enforce TLS 1.2, which the best protocol available currently for OpenVPN.
+With `tls-version-min 1.2` we enforce TLS 1.2, which is the best protocol available currently for OpenVPN.
 
 TLS 1.2 is supported since OpenVPN 2.3.3.
 
